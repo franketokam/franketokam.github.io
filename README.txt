@@ -21,6 +21,4 @@ https://mdbootstrap.com/general/license/
 Support:
 https://mdbootstrap.com/forums/forum/support/
 
-Contact:
-office@mdbootstrap.com
 
