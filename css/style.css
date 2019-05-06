@@ -1,0 +1,50 @@
+*{
+    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif; ;
+}
+
+
+html,
+body,
+header,
+#intro{
+    height: 100%;
+}
+#intro{
+        background: url("IMG_0204.JPG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#intro h1{
+    font-size: 40px;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin{
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-github {
+  background: #55ACEE;
+  color: white;
+}
+
